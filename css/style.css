@@ -34,16 +34,16 @@ section>h2 {
 }
 
 section.chicken>h2 {
-    background-color:orange;
+    background-color:pink;
 }
 
 section.beef>h2 {
-    background-color: red;
+    background-color: maroon;
 }
 
 section.sushi>h2 {
     color: black;
-    background-color:pink;
+    background-color:cream;
 }
 
 section>p {
